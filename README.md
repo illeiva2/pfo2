@@ -43,7 +43,7 @@ La base de datos `tareas.db` se crea automáticamente al ejecutar el servidor.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/<tu-usuario>/pfo2.git
+git clone https://github.com/illeiva2/pfo2.git
 cd pfo2
 ```
 
