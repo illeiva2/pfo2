@@ -1,0 +1,17 @@
+# Base de datos local
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Editores
+.vscode/
+.idea/
+.DS_Store
